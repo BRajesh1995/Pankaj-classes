@@ -1,0 +1,8 @@
+h3 {
+  color: aqua;
+  color: #fff;
+  color: rgb(red, green, blue);
+  color: hsl(hue, saturation, lightness);
+  color: rgba(red, green, blue, alpha);
+  color: hsla(hue, saturation, lightness, alpha);
+}
